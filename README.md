@@ -2,24 +2,24 @@
 
 mStore: Schema Mining based-RDF Data Storage
 
-##  WatDiv Basic Test
+[comment]: <> (##  WatDiv Basic Test)
 
-### 100M
+[comment]: <> (### 100M)
 
-![watdiv100M](README.assets/watdiv100M.png)
+[comment]: <> (![watdiv100M]&#40;README.assets/watdiv100M.png&#41;)
 
-### 200M
+[comment]: <> (### 200M)
 
-![watdiv200M](README.assets/watdiv200M.png)
+[comment]: <> (![watdiv200M]&#40;README.assets/watdiv200M.png&#41;)
 
-### 300M
+[comment]: <> (### 300M)
 
-![watdiv300M](README.assets/watdiv300M.png)
+[comment]: <> (![watdiv300M]&#40;README.assets/watdiv300M.png&#41;)
 
-### 400M
+[comment]: <> (### 400M)
 
-![watdiv400M](README.assets/watdiv400M.png)
+[comment]: <> (![watdiv400M]&#40;README.assets/watdiv400M.png&#41;)
 
-### 500M
+[comment]: <> (### 500M)
 
-![watdiv500M](README.assets/watdiv500M.png)
+[comment]: <> (![watdiv500M]&#40;README.assets/watdiv500M.png&#41;)
